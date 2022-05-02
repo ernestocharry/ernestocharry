@@ -9,7 +9,7 @@ Data Engineer and Master in Physical Sciences.
 - Data Engineer: Microsoft Azure and Python.
 
 
-* 🌍  I'm based in Mexico City
+🌍  I'm based in Mexico City
 
 ### Skills
 
