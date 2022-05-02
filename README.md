@@ -8,6 +8,7 @@ Data Engineer and Master in Physical Sciences.
 - Programmer: translation of the programming language code from R to Python.
 - Data Engineer: Microsoft Azure and Python.
 
+
 * 🌍  I'm based in Mexico City
 
 ### Skills
