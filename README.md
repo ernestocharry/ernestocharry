@@ -2,7 +2,10 @@ Hi 👋 My name is Félix Charry
 =============================  
 Data Engineer and Master in Physical Sciences. 
 ----------------------------------------------  
-\- Physics undergraduate: nuclear reaction simulation in FORTRAN. - MSc Physics: dating of sedimentary cores using radionuclides and detector simulation using Monte Carlo, R. - Programmer: translation of the programming language code from R to Python. - Data Engineer: Microsoft Azure and Python.  
+\- Physics undergraduate: nuclear reaction simulation in FORTRAN.
+- MSc Physics: dating of sedimentary cores using radionuclides and detector simulation using Monte Carlo, R.
+- Programmer: translation of the programming language code from R to Python.
+- Data Engineer: Microsoft Azure and Python.
 
 * 🌍  I'm based in Mexico City
 
